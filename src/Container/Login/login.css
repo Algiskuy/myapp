@@ -1,0 +1,35 @@
+.login {
+  margin-top: 6%;
+  /* border: 2px solid; */
+  display: flex;
+  justify-content: space-around;
+}
+.loginleft {
+  padding: 10px;
+  /* border: 1px solid; */
+  width: 40%;
+  text-align: left;
+}
+
+.login1 {
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px black;
+  padding: 20px;
+}
+.login2 {
+  padding: 20px;
+  box-shadow: 0px 0px 5px black;
+}
+.login2 input {
+  border: 1px solid;
+  width: 92%;
+  padding: 10px 5px 10px 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.login2 button {
+  background-color: rgba(99, 82, 82, 0.459);
+  padding: 10px 0px 10px 0px;
+  font-weight: bolder;
+  width: 100%;
+}

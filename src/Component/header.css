@@ -1,0 +1,30 @@
+.logo {
+  display: flex;
+}
+.logo1 {
+  width: 80px;
+  background-image: url(/src/foto/8-unscreen.gif);
+  background-size: cover;
+  background-position: center;
+}
+header {
+  padding-left: 20px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(38, 38, 94, 0.829);
+}
+
+header ul {
+  display: flex;
+  list-style: none;
+  text-align: center;
+  line-height: 40px;
+}
+header ul li {
+  margin-right: 40px;
+  font-weight: bolder;
+}
+a {
+  text-decoration: none;
+  color: black;
+}

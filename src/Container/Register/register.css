@@ -1,0 +1,55 @@
+H3 {
+  margin: 0;
+}
+.register {
+  margin-top: 1%;
+  display: flex;
+  justify-content: center;
+}
+.register1 {
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px black;
+  padding: 20px;
+}
+.register2 {
+  padding: 20px 0px 20px 0px;
+  box-shadow: 0px 0px 5px black;
+  width: max-content;
+}
+.inputnama {
+  /* width: 25%; */
+  padding: 10px 5px 10px 5px;
+  border-radius: 5px;
+  margin: 0px 10px 20px 10px;
+}
+.inputdaftar {
+  width: 90%;
+  padding: 10px 5px 10px 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.register2 button {
+  padding: 10px 0px 10px 0px;
+  font-weight: bolder;
+  width: 95%;
+  font-size: 20px;
+  background-color: rgba(99, 82, 82, 0.459);
+}
+h5 {
+  margin: 5px;
+  text-align: left;
+}
+.select {
+  text-align: left;
+}
+select {
+  margin: 0px 10px 0px 5px;
+  padding: 0px 10px 0px 10px;
+}
+.label {
+  text-align: left;
+  margin: 0px 0px 10px 0px;
+}
+.label label {
+  margin-right: 20px;
+}
